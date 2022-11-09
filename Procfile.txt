@@ -1,2 +1,0 @@
-web: gunicorn app:app  # here you ahve to include which file you want to run first, in our case it is app.py
-
